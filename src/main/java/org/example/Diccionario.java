@@ -61,7 +61,7 @@ public class Diccionario {
                     System.out.print(palabra + " ");
                 }
             }
-            System.out.println("hola");
+            System.out.println("");
         }
     }
 
